@@ -1,1 +1,1 @@
-Semi-guided project to generate keywords for a Google Ads campaign.
+Generating keywords for a Google Ads campaign.
